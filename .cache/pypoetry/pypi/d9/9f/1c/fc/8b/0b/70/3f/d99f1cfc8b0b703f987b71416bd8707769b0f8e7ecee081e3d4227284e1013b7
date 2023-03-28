@@ -1,0 +1,1 @@
+9999999999{"name": "Faker", "version": "17.6.0", "summary": "Faker is a Python package that generates fake data for you.", "platform": "any", "requires_dist": ["python-dateutil (>=2.4)", "typing-extensions (>=3.10.0.1) ; python_version < \"3.8\""], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
